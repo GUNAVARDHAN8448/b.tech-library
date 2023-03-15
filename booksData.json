@@ -1,0 +1,184 @@
+[
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Theory of Machines",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51yl+h40PSL.jpg",
+    "Price": "₹435.00",
+    "description": "A book written by S S Rattan for KOM and DOM."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Material Science and Engineering",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51dJUcDMNRL.jpg",
+    "Price": "₹853.00",
+    "description": "A book written by Callister for MSE."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Strength Of Materials",
+    "img": "https://m.media-amazon.com/images/I/51ye-AD6d7L.jpg",
+    "Price": "₹304.00",
+    "description": "A book written by Timoshenko for SOM."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Modern Control ENgineering",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A16WOfiXAhL.jpg",
+    "Price": "₹725.00",
+    "description": "A book written by Ogata for AC."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Introduction To Fluid Mechanics",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/414Owom2pGL.jpg",
+    "Price": "₹898.00",
+    "description": "A book written by Fox And McDonald's for Fluid Mechanics."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "MATHEMATICAL ELEMENTS FOR COMPUTER GRAPHICS",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ly2wOLzYL.jpg",
+    "Price": "₹2,757.00",
+    "description": "A book written by David Rogers for CAD/CAM."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Manufacturing Science",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41IxeBe2I9L.jpg",
+    "Price": "₹343.00",
+    "description": "A book written by Amitabha Ghosh  for MST."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Shigley's Mechanical Engineering Design ",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41O6ZE0IRxL.jpg",
+    "Price": "₹4,499.00",
+    "description": "A book written by Richard Budynas , Keith Nisbett   for MD."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "Internal Combustion Engines",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61P2ebQe57L.jpg",
+    "Price": "₹671.00",
+    "description": "A book written by V Ganesan for ICE."
+  },
+  {
+    "BranchName": "Mech/PIE",
+    "name": "The Motor Vehicle",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51yl+h40PSL.jpg",
+    "Price": "₹4,319.00",
+    "description": "A book written by Kenneth Newton  for AE."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "MODERN DIGITAL AND ANALOG COMMUNICATION SYSTEMS",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51sPjIeOZZL.jpg",
+    "Price": "₹335.00",
+    "description": "A book written by B.P.Lathi for POC."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "Digital Design ",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81CzlJamzjL.jpg",
+    "Price": "₹500.00",
+    "description": "A book written by M.Morris Mano for DE."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "Antenna Theory: Analysis and Design",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Ae5i-sN8L.jpg",
+    "Price": "₹4,998.00",
+    "description": "A book written by  Constantine A. Balanis for AWP."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "Design of Analog CMOS Integrated Circuits",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51bD3QdahOL.jpg",
+    "Price": "₹3,428.00",
+    "description": "A book written by  Behzad Razavi for ECD."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "Data Communications and Networking with TCPIP Protocol Suite",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91tmCLtcGWL.jpg",
+    "Price": "₹794.00",
+    "description": "A book written by Behrouz A. Forouzan  for DCN."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "CMOS Digital Integrated Circuits, Analysis and Design",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61uVlZen4UL.jpg",
+    "Price": "₹750.00",
+    "description": "A book written by Sung-Mo Kang for VLSI."
+  },
+  {
+    "BranchName": "ECE",
+    "name": "Computer System Architecture",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81PB5AyyPHL.jpg",
+    "Price": "₹760.00",
+    "description": "A book written by Mano M Morris for CA."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Data Structures and Program Design in C",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51pGT4AcCML.jpg",
+    "Price": "₹270.00",
+    "description": "A book written by KRUSE for DS."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "OOP WITH C++",
+    "img": "https://m.media-amazon.com/images/P/B0BHHXDP7H.01._SCLZZZZZZZ_SX500_.jpg",
+    "Price": "₹385.00",
+    "description": "A book written by REEMA THAREJA for OOPS."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Introduction to Algorithms",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61TX9gJwCDL.jpg",
+    "Price": "₹1050.00",
+    "description": "A book written by  Thomas H. Cormen  for AOA."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Introduction to Graph Theory",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/810IV76+PCL.jpg",
+    "Price": "₹567.00",
+    "description": "A book written by West for Graphs Theory."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Logic for Applications",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61gLUDKrE3L.jpg",
+    "Price": "₹6500.00",
+    "description": "A book written by Anil Nerode for Foundation Of Logical."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Operating Systems: Internals and Design Principles",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/8137stGaNQL.jpg",
+    "Price": "₹649.00",
+    "description": "A book written by William Stallings  for OS."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Computer Networking: A top down approach featuring the Internet",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91hg1HHyiWL.jpg",
+    "Price": "₹850.00",
+    "description": "A book written by Kurose James F, Ross Keith W for CN."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Cryptography Theory And Practice",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31U9im5kjmL.jpg",
+    "Price": "₹2,300.00",
+    "description": "A book written by Douglas R. Stinson for Cryptography."
+  },
+  {
+    "BranchName": "CSE/IT",
+    "name": "Software Engineering",
+    "img": "https://m.media-amazon.com/images/P/B075CPJCWH.01._SCLZZZZZZZ_SX500_.jpg",
+    "Price": "₹856.00",
+    "description": "A book written by Ian Sommerville for SE."
+  }
+]
